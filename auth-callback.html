@@ -66,12 +66,14 @@
                 body: JSON.stringify({ code: code })
             })
             .then(function(res) {
-                if (!res.ok) throw new Error("Server returned " + res.status);
-                return res.json();
-            })
-            .then(function(data) {
-                if (!data.success) throw new Error(data.error || "Login failed");
-                return data;
+                return res.json().then(function(data) {
+                    if (!res.ok || !data.success) {
+                        var err = new Error(data.error || "Server returned " + res.status);
+                        err.status = res.status;
+                        throw err;
+                    }
+                    return data;
+                });
             });
         }
 
@@ -95,13 +97,19 @@
 
                 exchangeCode(primary)
                     .then(onSuccess)
-                    .catch(function() {
-                        // Primary failed, try fallback
+                    .catch(function(err) {
+                        // Only fallback on network errors or server errors (5xx)
+                        // Don't fallback on client errors (400/403) — code is consumed, retrying won't help
+                        if (err.status && err.status < 500) {
+                            showError(err.message || "Login failed");
+                            return;
+                        }
+                        // Server error or network failure — try fallback
                         document.getElementById("status").textContent = "Retrying...";
                         exchangeCode(fallback)
                             .then(onSuccess)
-                            .catch(function(err) {
-                                showError(err.message || "Something went wrong");
+                            .catch(function(err2) {
+                                showError(err2.message || "Something went wrong");
                             });
                     });
             });
