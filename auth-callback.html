@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Logging in...</title>
+    <style>
+        body { background: #0A0A0F; color: #F0F0F5; font-family: Inter, sans-serif; display: flex; align-items: center; justify-content: center; min-height: 100vh; margin: 0; }
+        .loader { text-align: center; }
+        .spinner { width: 40px; height: 40px; border: 3px solid rgba(255,215,0,0.2); border-top-color: #FFD700; border-radius: 50%; animation: spin 0.8s linear infinite; margin: 0 auto 16px; }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        .error { color: #F44336; margin-top: 12px; }
+    </style>
+</head>
+<body>
+    <div class="loader">
+        <div class="spinner" id="spinner"></div>
+        <p id="status">Logging you in...</p>
+        <p class="error" id="error" style="display:none"></p>
+    </div>
+    <script>
+    (function() {
+        // Approved sites that can use this callback
+        var APPROVED_SITES = [
+            "http://localhost",
+            "http://127.0.0.1",
+            "http://161.97.100.220",
+            "https://bealuckyblockweb.pages.dev"
+        ];
+
+        // Cloudflare Function that exchanges the Discord code
+        var EXCHANGE_URL = "https://bealuckyblockweb.pages.dev/api/discord-exchange";
+
+        var params = new URLSearchParams(window.location.search);
+        var code = params.get("code");
+        var state = params.get("state");
+
+        if (!code) {
+            showError("No authorization code received.");
+            return;
+        }
+
+        // Decode return URL from state
+        var returnUrl = "";
+        try {
+            var stateData = JSON.parse(atob(state));
+            returnUrl = stateData.returnUrl || "";
+        } catch(e) {
+            returnUrl = "";
+        }
+
+        // Verify return URL is approved
+        var approved = APPROVED_SITES.some(function(site) {
+            return returnUrl && returnUrl.indexOf(site) === 0;
+        });
+        if (!approved) returnUrl = APPROVED_SITES[APPROVED_SITES.length - 1];
+
+        // Exchange code for token via Cloudflare Function
+        fetch(EXCHANGE_URL, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ code: code })
+        })
+        .then(function(res) {
+            if (!res.ok) throw new Error("Server returned " + res.status);
+            return res.json();
+        })
+        .then(function(data) {
+            if (!data.success) throw new Error(data.error || "Login failed");
+
+            // Redirect back to the website with token and user info
+            var token = encodeURIComponent(data.token);
+            var user = encodeURIComponent(btoa(JSON.stringify(data.user)));
+
+            // Build redirect URL — preserve existing hash or default to #/vote
+            var baseUrl = returnUrl.split('#')[0];
+            var hash = "#/vote";
+            window.location.href = baseUrl + hash + "?dtoken=" + token + "&duser=" + user;
+        })
+        .catch(function(err) {
+            showError(err.message || "Something went wrong");
+        });
+
+        function showError(msg) {
+            document.getElementById("spinner").style.display = "none";
+            document.getElementById("status").textContent = "Login failed";
+            var errorEl = document.getElementById("error");
+            errorEl.textContent = msg;
+            errorEl.style.display = "";
+            // Redirect back after 3 seconds
+            setTimeout(function() {
+                if (returnUrl) window.location.href = returnUrl;
+            }, 3000);
+        }
+    })();
+    </script>
+</body>
+</html>
