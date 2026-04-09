@@ -29,8 +29,10 @@
             "https://bealuckyblock.xfrozenstudios.com"
         ];
 
-        // Cloudflare Function that exchanges the Discord code
-        var EXCHANGE_URL = "https://bealuckyblockweb.pages.dev/api/discord-exchange";
+        // VPS handles login normally, CF Function only under heavy load
+        var VPS_EXCHANGE_URL = "https://api.xfrozenstudios.com/api/discord-exchange";
+        var CF_EXCHANGE_URL = "https://bealuckyblockweb.pages.dev/api/discord-exchange";
+        var MODE_URL = "https://maximum131071.github.io/balb-auth/mode.json";
 
         var params = new URLSearchParams(window.location.search);
         var code = params.get("code");
@@ -56,31 +58,53 @@
         });
         if (!approved) returnUrl = APPROVED_SITES[APPROVED_SITES.length - 1];
 
-        // Exchange code for token via Cloudflare Function
-        fetch(EXCHANGE_URL, {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ code: code })
-        })
-        .then(function(res) {
-            if (!res.ok) throw new Error("Server returned " + res.status);
-            return res.json();
-        })
-        .then(function(data) {
-            if (!data.success) throw new Error(data.error || "Login failed");
+        // Exchange code via the given URL
+        function exchangeCode(url) {
+            return fetch(url, {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ code: code })
+            })
+            .then(function(res) {
+                if (!res.ok) throw new Error("Server returned " + res.status);
+                return res.json();
+            })
+            .then(function(data) {
+                if (!data.success) throw new Error(data.error || "Login failed");
+                return data;
+            });
+        }
 
-            // Redirect back to the website with token and user info
+        function onSuccess(data) {
             var token = encodeURIComponent(data.token);
             var user = encodeURIComponent(btoa(JSON.stringify(data.user)));
-
-            // Build redirect URL — preserve existing hash or default to #/vote
             var baseUrl = returnUrl.split('#')[0];
             var hash = "#/vote";
             window.location.href = baseUrl + hash + "?dtoken=" + token + "&duser=" + user;
-        })
-        .catch(function(err) {
-            showError(err.message || "Something went wrong");
-        });
+        }
+
+        // Check server mode, then route adaptively
+        fetch(MODE_URL + "?t=" + Date.now())
+            .then(function(res) { return res.ok ? res.json() : { mode: "vps" }; })
+            .catch(function() { return { mode: "vps" }; })
+            .then(function(data) {
+                var mode = data.mode || "vps";
+                // Use VPS in normal/split mode, CF Function only in workers mode
+                var primary = (mode === "workers") ? CF_EXCHANGE_URL : VPS_EXCHANGE_URL;
+                var fallback = (mode === "workers") ? VPS_EXCHANGE_URL : CF_EXCHANGE_URL;
+
+                exchangeCode(primary)
+                    .then(onSuccess)
+                    .catch(function() {
+                        // Primary failed, try fallback
+                        document.getElementById("status").textContent = "Retrying...";
+                        exchangeCode(fallback)
+                            .then(onSuccess)
+                            .catch(function(err) {
+                                showError(err.message || "Something went wrong");
+                            });
+                    });
+            });
 
         function showError(msg) {
             document.getElementById("spinner").style.display = "none";
