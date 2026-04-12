@@ -74,7 +74,7 @@
 
             // Redirect back with success
             var baseUrl = returnUrl.split('#')[0];
-            window.location.href = baseUrl + "#/trade-hub?roblox=linked&robloxUser=" + encodeURIComponent(data.robloxUsername);
+            window.location.href = baseUrl + "#/trade-hub?roblox=linked";
         })
         .catch(function(err) {
             showError(err.message || "Something went wrong");
