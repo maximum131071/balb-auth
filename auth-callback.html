@@ -45,9 +45,11 @@
 
         // Decode return URL from state
         var returnUrl = "";
+        var returnHash = "";
         try {
             var stateData = JSON.parse(atob(state));
             returnUrl = stateData.returnUrl || "";
+            returnHash = stateData.returnHash || "";
         } catch(e) {
             returnUrl = "";
         }
@@ -81,7 +83,7 @@
             var token = encodeURIComponent(data.token);
             var user = encodeURIComponent(btoa(JSON.stringify(data.user)));
             var baseUrl = returnUrl.split('#')[0];
-            var hash = "#/vote";
+            var hash = returnHash || "#/vote";
             window.location.href = baseUrl + hash + "?dtoken=" + token + "&duser=" + user;
         }
 
