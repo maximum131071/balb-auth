@@ -34,8 +34,6 @@
         var CF_EXCHANGE_URL = "https://bealuckyblockweb.pages.dev/api/discord-exchange";
         var MODE_URL = "https://maximum131071.github.io/balb-auth/mode.json";
 
-        // Prevent double execution (browser prefetch/reload with same code)
-        var codeKey = "balb_auth_code_used";
         var params = new URLSearchParams(window.location.search);
         var code = params.get("code");
         var state = params.get("state");
@@ -45,11 +43,10 @@
             return;
         }
 
-        if (sessionStorage.getItem(codeKey) === code) {
-            document.getElementById("status").textContent = "Redirecting...";
-            return;
-        }
-        sessionStorage.setItem(codeKey, code);
+        // Prevent double execution — remove code from URL immediately
+        if (window._authCodeProcessing) return;
+        window._authCodeProcessing = true;
+        window.history.replaceState({}, "", window.location.pathname);
 
         // Decode return URL from state
         var returnUrl = "";
@@ -92,7 +89,10 @@
             var user = encodeURIComponent(btoa(JSON.stringify(data.user)));
             var baseUrl = returnUrl.split('#')[0];
             var hash = returnHash || "#/vote";
-            window.location.href = baseUrl + hash + "?dtoken=" + token + "&duser=" + user;
+            var redirectUrl = baseUrl + hash + "?dtoken=" + token + "&duser=" + user;
+            console.log("[AUTH] Success! Redirecting to:", redirectUrl.substring(0, 100) + "...");
+            document.getElementById("status").textContent = "Success! Redirecting...";
+            setTimeout(function() { window.location.href = redirectUrl; }, 500);
         }
 
         // Check server mode, then route adaptively
@@ -130,10 +130,11 @@
             var errorEl = document.getElementById("error");
             errorEl.textContent = msg;
             errorEl.style.display = "";
-            // Redirect back after 3 seconds
+            console.error("[AUTH] Error:", msg, "returnUrl:", returnUrl, "mode:", "pending");
+            // Redirect back after 5 seconds (increased for debugging)
             setTimeout(function() {
                 if (returnUrl) window.location.href = returnUrl;
-            }, 3000);
+            }, 5000);
         }
     })();
     </script>
