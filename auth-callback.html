@@ -34,6 +34,8 @@
         var CF_EXCHANGE_URL = "https://bealuckyblockweb.pages.dev/api/discord-exchange";
         var MODE_URL = "https://maximum131071.github.io/balb-auth/mode.json";
 
+        // Prevent double execution (browser prefetch/reload with same code)
+        var codeKey = "balb_auth_code_used";
         var params = new URLSearchParams(window.location.search);
         var code = params.get("code");
         var state = params.get("state");
@@ -42,6 +44,12 @@
             showError("No authorization code received.");
             return;
         }
+
+        if (sessionStorage.getItem(codeKey) === code) {
+            document.getElementById("status").textContent = "Redirecting...";
+            return;
+        }
+        sessionStorage.setItem(codeKey, code);
 
         // Decode return URL from state
         var returnUrl = "";
