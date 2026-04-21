@@ -18,8 +18,8 @@
     "gorgonzilla": {
       "NORMAL": 1750000,
       "CANDY": 2000000,
-      "GOLD": 225000,
-      "DIAMOND": 250000,
+      "GOLD": 2250000,
+      "DIAMOND": 2500000,
       "VOID": 3500000
     },
     "dojonini_assassini": {
@@ -681,6 +681,6 @@
       "VOID": 0
     }
   },
-  "lastUpdated": "2026-04-21T05:25:50.749Z",
+  "lastUpdated": "2026-04-21T05:36:59.859Z",
   "lastUpdatedBy": "admin"
 }
