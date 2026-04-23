@@ -38,7 +38,7 @@
     },
     "i2perfectini_foxinini": {
       "NORMAL": 500000,
-      "CANDY": 0,
+      "CANDY": 750000,
       "GOLD": 0,
       "DIAMOND": 0,
       "VOID": 1900000
@@ -681,6 +681,6 @@
       "VOID": 0
     }
   },
-  "lastUpdated": "2026-04-23T19:17:26.456Z",
+  "lastUpdated": "2026-04-23T19:17:29.247Z",
   "lastUpdatedBy": "admin"
 }
