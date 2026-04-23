@@ -27,14 +27,14 @@
       "CANDY": 0,
       "GOLD": 0,
       "DIAMOND": 0,
-      "VOID": 0
+      "VOID": 1900000
     },
     "magiani_tankiani": {
       "NORMAL": 0,
       "CANDY": 0,
       "GOLD": 0,
       "DIAMOND": 0,
-      "VOID": 0
+      "VOID": 1900000
     },
     "i2perfectini_foxinini": {
       "NORMAL": 0,
@@ -681,6 +681,6 @@
       "VOID": 0
     }
   },
-  "lastUpdated": "2026-04-23T19:15:16.998Z",
+  "lastUpdated": "2026-04-23T19:16:26.026Z",
   "lastUpdatedBy": "admin"
 }
