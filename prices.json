@@ -41,7 +41,7 @@
       "CANDY": 0,
       "GOLD": 0,
       "DIAMOND": 0,
-      "VOID": 0
+      "VOID": 1900000
     },
     "bulu_bulu_bulu_bulben": {
       "NORMAL": 0,
@@ -681,6 +681,6 @@
       "VOID": 0
     }
   },
-  "lastUpdated": "2026-04-23T19:16:26.026Z",
+  "lastUpdated": "2026-04-23T19:16:29.126Z",
   "lastUpdatedBy": "admin"
 }
