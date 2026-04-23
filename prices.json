@@ -23,7 +23,7 @@
       "VOID": 0
     },
     "dojonini_assassini": {
-      "NORMAL": 0,
+      "NORMAL": 500000,
       "CANDY": 0,
       "GOLD": 0,
       "DIAMOND": 0,
@@ -681,6 +681,6 @@
       "VOID": 0
     }
   },
-  "lastUpdated": "2026-04-23T19:16:29.126Z",
+  "lastUpdated": "2026-04-23T19:17:07.346Z",
   "lastUpdatedBy": "admin"
 }
