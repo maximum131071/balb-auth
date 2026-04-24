@@ -438,9 +438,9 @@
     "la_vacca_saturno_saturnita": {
       "NORMAL": 5000,
       "CANDY": 7500,
-      "GOLD": 10000,
-      "DIAMOND": 12500,
-      "VOID": 15000
+      "GOLD": 10500,
+      "DIAMOND": 14000,
+      "VOID": 17000
     },
     "trulimero_trulicina": {
       "NORMAL": 4200,
@@ -688,6 +688,6 @@
       "VOID": 0
     }
   },
-  "lastUpdated": "2026-04-24T05:57:26.205Z",
+  "lastUpdated": "2026-04-24T05:58:33.726Z",
   "lastUpdatedBy": "admin"
 }
