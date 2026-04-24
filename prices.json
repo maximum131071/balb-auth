@@ -131,7 +131,7 @@
       "NORMAL": 50000,
       "CANDY": 75000,
       "GOLD": 125000,
-      "DIAMOND": 0,
+      "DIAMOND": 175000,
       "VOID": 250000
     },
     "la_vacca_galactica": {
@@ -835,6 +835,6 @@
       "VOID": 0
     }
   },
-  "lastUpdated": "2026-04-24T09:43:00.483Z",
+  "lastUpdated": "2026-04-24T09:43:12.250Z",
   "lastUpdatedBy": "admin"
 }
