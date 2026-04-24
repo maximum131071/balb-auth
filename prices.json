@@ -72,9 +72,9 @@
       "VOID": 1275000
     },
     "wormrot": {
-      "NORMAL": 0,
+      "NORMAL": 150000,
       "CANDY": 0,
-      "GOLD": 0,
+      "GOLD": 400000,
       "DIAMOND": 0,
       "VOID": 0
     },
@@ -842,6 +842,6 @@
       "VOID": 0
     }
   },
-  "lastUpdated": "2026-04-24T08:12:49.160Z",
+  "lastUpdated": "2026-04-24T08:58:21.625Z",
   "lastUpdatedBy": "admin"
 }
