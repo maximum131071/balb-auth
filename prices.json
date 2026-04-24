@@ -10,10 +10,10 @@
     },
     "squalo_cavallo": {
       "NORMAL": 50000000,
-      "CANDY": 100000000,
-      "GOLD": 150000000,
-      "DIAMOND": 200000000,
-      "VOID": 300000000
+      "CANDY": 75000000,
+      "GOLD": 100000000,
+      "DIAMOND": 150000000,
+      "VOID": 200000000
     },
     "gorgonzilla": {
       "NORMAL": 3000000,
@@ -842,6 +842,6 @@
       "VOID": 0
     }
   },
-  "lastUpdated": "2026-04-24T06:40:18.395Z",
+  "lastUpdated": "2026-04-24T06:40:51.432Z",
   "lastUpdatedBy": "admin"
 }
