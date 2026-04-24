@@ -353,10 +353,10 @@
     },
     "hopster_foottera": {
       "NORMAL": 8000,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "CANDY": 12000,
+      "GOLD": 16000,
+      "DIAMOND": 20000,
+      "VOID": 24000
     },
     "spaceshipini_tortini": {
       "NORMAL": 8000,
@@ -402,10 +402,10 @@
     },
     "angelzini_bananini": {
       "NORMAL": 8000,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "CANDY": 12000,
+      "GOLD": 16000,
+      "DIAMOND": 20000,
+      "VOID": 24000
     },
     "devilcino_assassino": {
       "NORMAL": 8000,
@@ -688,6 +688,6 @@
       "VOID": 0
     }
   },
-  "lastUpdated": "2026-04-24T03:39:14.843Z",
+  "lastUpdated": "2026-04-24T03:39:51.828Z",
   "lastUpdatedBy": "admin"
 }
