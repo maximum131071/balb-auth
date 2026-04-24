@@ -465,10 +465,10 @@
     },
     "pot_hotspot": {
       "NORMAL": 3000,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "CANDY": 4500,
+      "GOLD": 6000,
+      "DIAMOND": 7500,
+      "VOID": 9000
     },
     "los_tralaleritos": {
       "NORMAL": 3000,
@@ -535,10 +535,10 @@
     },
     "yoni": {
       "NORMAL": 2000,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "CANDY": 3000,
+      "GOLD": 4000,
+      "DIAMOND": 5000,
+      "VOID": 6000
     },
     "orcalero_orcala": {
       "NORMAL": 2000,
@@ -563,10 +563,10 @@
     },
     "frulli_frula": {
       "NORMAL": 2000,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "CANDY": 3000,
+      "GOLD": 4000,
+      "DIAMOND": 5000,
+      "VOID": 6000
     },
     "svinina_bombobardino": {
       "NORMAL": 2000,
@@ -688,6 +688,6 @@
       "VOID": 0
     }
   },
-  "lastUpdated": "2026-04-24T03:38:52.472Z",
+  "lastUpdated": "2026-04-24T03:39:14.843Z",
   "lastUpdatedBy": "admin"
 }
