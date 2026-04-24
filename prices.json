@@ -590,8 +590,8 @@
       "VOID": 5200
     },
     "frigo_camello": {
-      "NORMAL": 1750,
-      "CANDY": 2500,
+      "NORMAL": 1800,
+      "CANDY": 2600,
       "GOLD": 3500,
       "DIAMOND": 4500,
       "VOID": 5000
@@ -688,6 +688,6 @@
       "VOID": 0
     }
   },
-  "lastUpdated": "2026-04-24T05:58:33.726Z",
+  "lastUpdated": "2026-04-24T05:59:13.427Z",
   "lastUpdatedBy": "admin"
 }
