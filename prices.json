@@ -2,14 +2,14 @@
   "version": 1,
   "prices": {
     "67": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 275000,
+      "CANDY": 412500,
+      "GOLD": 550000,
+      "DIAMOND": 687500,
+      "VOID": 825000
     },
     "squalo_cavallo": {
-      "NORMAL": 0,
+      "NORMAL": 50000000,
       "CANDY": 0,
       "GOLD": 0,
       "DIAMOND": 0,
@@ -51,630 +51,630 @@
       "VOID": 0
     },
     "strawberry_elephant": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 2000000,
+      "CANDY": 3000000,
+      "GOLD": 5000000,
+      "DIAMOND": 12500000,
+      "VOID": 20000000
     },
     "rang_ring_reng": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 450000,
+      "CANDY": 675000,
+      "GOLD": 900000,
+      "DIAMOND": 1125000,
+      "VOID": 1350000
     },
     "chachechi": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 425000,
+      "CANDY": 637500,
+      "GOLD": 850000,
+      "DIAMOND": 1087500,
+      "VOID": 1275000
     },
     "meowl": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 450000,
+      "CANDY": 675000,
+      "GOLD": 900000,
+      "DIAMOND": 1125000,
+      "VOID": 1350000
     },
     "karkirkur": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 450000,
+      "CANDY": 675000,
+      "GOLD": 900000,
+      "DIAMOND": 1125000,
+      "VOID": 135000
     },
     "luminous_yoni": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 250000,
+      "CANDY": 375000,
+      "GOLD": 500000,
+      "DIAMOND": 625000,
+      "VOID": 750000
     },
     "malame_easterale": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 200000,
+      "CANDY": 300000,
+      "GOLD": 400000,
+      "DIAMOND": 500000,
+      "VOID": 600000
     },
     "la_vacca_galactica": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 190000,
+      "CANDY": 285000,
+      "GOLD": 380000,
+      "DIAMOND": 475000,
+      "VOID": 570000
     },
     "la_vacca_singolarita": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 190000,
+      "CANDY": 285000,
+      "GOLD": 380000,
+      "DIAMOND": 475000,
+      "VOID": 570000
     },
     "dragoni_circusoni": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 190000,
+      "CANDY": 285000,
+      "GOLD": 380000,
+      "DIAMOND": 475000,
+      "VOID": 570000
     },
     "angelinni_octossini": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 190000,
+      "CANDY": 285000,
+      "GOLD": 380000,
+      "DIAMOND": 475000,
+      "VOID": 570000
     },
     "devilivion": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 190000,
+      "CANDY": 285000,
+      "GOLD": 380000,
+      "DIAMOND": 475000,
+      "VOID": 570000
     },
     "elefantino_frigorifero": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 55000,
+      "CANDY": 82500,
+      "GOLD": 110000,
+      "DIAMOND": 137500,
+      "VOID": 165000
     },
     "salamino_penguinoo": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 55000,
+      "CANDY": 82500,
+      "GOLD": 110000,
+      "DIAMOND": 137500,
+      "VOID": 165000
     },
     "toc_toc_sahur": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 50000,
+      "CANDY": 75000,
+      "GOLD": 100000,
+      "DIAMOND": 125000,
+      "VOID": 150000
     },
     "tic_tac_tok_afammocc": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 50000,
+      "CANDY": 75000,
+      "GOLD": 100000,
+      "DIAMOND": 125000,
+      "VOID": 150000
     },
     "buni": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 50000,
+      "CANDY": 75000,
+      "GOLD": 100000,
+      "DIAMOND": 125000,
+      "VOID": 150000
     },
     "aliensini_octosini": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 50000,
+      "CANDY": 75000,
+      "GOLD": 100000,
+      "DIAMOND": 125000,
+      "VOID": 150000
     },
     "cavallo_inkuoso": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 50000,
+      "CANDY": 75000,
+      "GOLD": 100000,
+      "DIAMOND": 125000,
+      "VOID": 150000
     },
     "tic_toc_circhur": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 50000,
+      "CANDY": 75000,
+      "GOLD": 100000,
+      "DIAMOND": 125000,
+      "VOID": 150000
     },
     "bisonte_giuppitere_giuppitercito": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 25000,
+      "CANDY": 37500,
+      "GOLD": 50000,
+      "DIAMOND": 62500,
+      "VOID": 75000
     },
     "spioniro_golubiro": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 20000,
+      "CANDY": 25000,
+      "GOLD": 30000,
+      "DIAMOND": 35000,
+      "VOID": 40000
     },
     "angel_job_job_sahur": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 25000,
+      "CANDY": 37500,
+      "GOLD": 50000,
+      "DIAMOND": 62500,
+      "VOID": 75000
     },
     "malamevil": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 25000,
+      "CANDY": 37500,
+      "GOLD": 50000,
+      "DIAMOND": 62500,
+      "VOID": 75000
     },
     "to_to_to_sahur": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 15000,
+      "CANDY": 22500,
+      "GOLD": 30000,
+      "DIAMOND": 37500,
+      "VOID": 45000
     },
     "boneca_ambalabu": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 13000,
+      "CANDY": 19500,
+      "GOLD": 26000,
+      "DIAMOND": 32500,
+      "VOID": 39000
     },
     "karkirkurster": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 13000,
+      "CANDY": 19500,
+      "GOLD": 26000,
+      "DIAMOND": 32500,
+      "VOID": 39000
     },
     "chachelien": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 13000,
+      "CANDY": 19500,
+      "GOLD": 26000,
+      "DIAMOND": 32500,
+      "VOID": 39000
     },
     "ink_din_din_dun": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 13000,
+      "CANDY": 19500,
+      "GOLD": 26000,
+      "DIAMOND": 32500,
+      "VOID": 39000
     },
     "clownteo": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 13000,
+      "CANDY": 19500,
+      "GOLD": 26000,
+      "DIAMOND": 32500,
+      "VOID": 39000
     },
     "ferro_sahur": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 13000,
+      "CANDY": 19500,
+      "GOLD": 26000,
+      "DIAMOND": 32500,
+      "VOID": 39000
     },
     "tralalero_tralala": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 13000,
+      "CANDY": 19500,
+      "GOLD": 26000,
+      "DIAMOND": 32500,
+      "VOID": 39000
     },
     "dragoni_cannelloni": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 13000,
+      "CANDY": 19500,
+      "GOLD": 26000,
+      "DIAMOND": 32500,
+      "VOID": 39000
     },
     "angel_bisonte_giuppitere": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 13000,
+      "CANDY": 19500,
+      "GOLD": 26000,
+      "DIAMOND": 32500,
+      "VOID": 39000
     },
     "diavolero_tralala": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 13000,
+      "CANDY": 19500,
+      "GOLD": 26000,
+      "DIAMOND": 32500,
+      "VOID": 39000
     },
     "cocosino_bunnyno": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 10000,
+      "CANDY": 15000,
+      "GOLD": 20000,
+      "DIAMOND": 25000,
+      "VOID": 30000
     },
     "astro_bandito": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 10000,
+      "CANDY": 15000,
+      "GOLD": 20000,
+      "DIAMOND": 25000,
+      "VOID": 30000
     },
     "inknina_bombobardino": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 10000,
+      "CANDY": 15000,
+      "GOLD": 20000,
+      "DIAMOND": 25000,
+      "VOID": 30000
     },
     "cocofanto_magicano": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 10000,
+      "CANDY": 15000,
+      "GOLD": 20000,
+      "DIAMOND": 25000,
+      "VOID": 30000
     },
     "tigrrullini_watermellini": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 9000,
+      "CANDY": 13500,
+      "GOLD": 18000,
+      "DIAMOND": 22500,
+      "VOID": 27000
     },
     "angela_larila": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 9000,
+      "CANDY": 13500,
+      "GOLD": 18000,
+      "DIAMOND": 22500,
+      "VOID": 27000
     },
     "devupat_kepat_prekupat": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 9000,
+      "CANDY": 13500,
+      "GOLD": 18000,
+      "DIAMOND": 22500,
+      "VOID": 27000
     },
     "graipus_medus": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 9000,
+      "CANDY": 13500,
+      "GOLD": 18000,
+      "DIAMOND": 22500,
+      "VOID": 27000
     },
     "hopster_foottera": {
-      "NORMAL": 0,
+      "NORMAL": 8000,
       "CANDY": 0,
       "GOLD": 0,
       "DIAMOND": 0,
       "VOID": 0
     },
     "spaceshipini_tortini": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 8000,
+      "CANDY": 12000,
+      "GOLD": 16000,
+      "DIAMOND": 20000,
+      "VOID": 24000
     },
     "glorbo_inkdrillo": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 8000,
+      "CANDY": 12000,
+      "GOLD": 16000,
+      "DIAMOND": 20000,
+      "VOID": 24000
     },
     "jestellerino_lololo": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 8000,
+      "CANDY": 12000,
+      "GOLD": 16000,
+      "DIAMOND": 20000,
+      "VOID": 24000
     },
     "ding_sahur": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 8000,
+      "CANDY": 12000,
+      "GOLD": 16000,
+      "DIAMOND": 20000,
+      "VOID": 24000
     },
     "spaghetti_tualetti": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 8000,
+      "CANDY": 12000,
+      "GOLD": 16000,
+      "DIAMOND": 20000,
+      "VOID": 24000
     },
     "cathinni_sushinni": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 8000,
+      "CANDY": 12000,
+      "GOLD": 16000,
+      "DIAMOND": 20000,
+      "VOID": 24000
     },
     "angelzini_bananini": {
-      "NORMAL": 0,
+      "NORMAL": 8000,
       "CANDY": 0,
       "GOLD": 0,
       "DIAMOND": 0,
       "VOID": 0
     },
     "devilcino_assassino": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 8000,
+      "CANDY": 12000,
+      "GOLD": 16000,
+      "DIAMOND": 20000,
+      "VOID": 24000
     },
     "pipi_potato": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 7500,
+      "CANDY": 11250,
+      "GOLD": 15000,
+      "DIAMOND": 18750,
+      "VOID": 22500
     },
     "agarrini_lapalini": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 7500,
+      "CANDY": 11250,
+      "GOLD": 15000,
+      "DIAMOND": 18750,
+      "VOID": 22500
     },
     "las_vaquitas_saturnitas": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 6000,
+      "CANDY": 9000,
+      "GOLD": 12000,
+      "DIAMOND": 15000,
+      "VOID": 18000
     },
     "la_vacca_saturno_saturnita": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 5000,
+      "CANDY": 7500,
+      "GOLD": 10000,
+      "DIAMOND": 12500,
+      "VOID": 15000
     },
     "trulimero_trulicina": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 4000,
+      "CANDY": 6000,
+      "GOLD": 8000,
+      "DIAMOND": 10000,
+      "VOID": 12000
     },
     "chicleteira_bicicleteira": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 4000,
+      "CANDY": 6000,
+      "GOLD": 8000,
+      "DIAMOND": 10000,
+      "VOID": 12000
     },
     "los_crocodillitos": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 3000,
+      "CANDY": 4500,
+      "GOLD": 6000,
+      "DIAMOND": 7500,
+      "VOID": 9000
     },
     "pot_hotspot": {
-      "NORMAL": 0,
+      "NORMAL": 3000,
       "CANDY": 0,
       "GOLD": 0,
       "DIAMOND": 0,
       "VOID": 0
     },
     "los_tralaleritos": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 3000,
+      "CANDY": 4500,
+      "GOLD": 6000,
+      "DIAMOND": 7500,
+      "VOID": 9000
     },
     "torrtuginni_dragonfrutinni": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 3000,
+      "CANDY": 4500,
+      "GOLD": 6000,
+      "DIAMOND": 7500,
+      "VOID": 9000
     },
     "burbaloni_luliloli": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 3000,
+      "CANDY": 4500,
+      "GOLD": 6000,
+      "DIAMOND": 7500,
+      "VOID": 9000
     },
     "mateo": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 2500,
+      "CANDY": 3750,
+      "GOLD": 5000,
+      "DIAMOND": 6250,
+      "VOID": 7500
     },
     "ti_ti_ti_sahur": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 2500,
+      "CANDY": 3750,
+      "GOLD": 5000,
+      "DIAMOND": 6250,
+      "VOID": 7500
     },
     "te_te_te_te_sahur": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 2500,
+      "CANDY": 3750,
+      "GOLD": 5000,
+      "DIAMOND": 6250,
+      "VOID": 7500
     },
     "rhino_toasterino": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 2500,
+      "CANDY": 3750,
+      "GOLD": 5000,
+      "DIAMOND": 6250,
+      "VOID": 7500
     },
     "cavallo_virtuoso": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 2500,
+      "CANDY": 3750,
+      "GOLD": 5000,
+      "DIAMOND": 6250,
+      "VOID": 7500
     },
     "lerulerulerule": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 2500,
+      "CANDY": 3750,
+      "GOLD": 5000,
+      "DIAMOND": 6250,
+      "VOID": 7500
     },
     "yoni": {
-      "NORMAL": 0,
+      "NORMAL": 2000,
       "CANDY": 0,
       "GOLD": 0,
       "DIAMOND": 0,
       "VOID": 0
     },
     "orcalero_orcala": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 2000,
+      "CANDY": 3000,
+      "GOLD": 4000,
+      "DIAMOND": 5000,
+      "VOID": 6000
     },
     "ganganzelli_trulala": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 2000,
+      "CANDY": 3000,
+      "GOLD": 4000,
+      "DIAMOND": 5000,
+      "VOID": 3000
     },
     "tracoducotulu_delapeladustuz": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 2000,
+      "CANDY": 3000,
+      "GOLD": 4000,
+      "DIAMOND": 5000,
+      "VOID": 6000
     },
     "frulli_frula": {
-      "NORMAL": 0,
+      "NORMAL": 2000,
       "CANDY": 0,
       "GOLD": 0,
       "DIAMOND": 0,
       "VOID": 0
     },
     "svinina_bombobardino": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 2000,
+      "CANDY": 3000,
+      "GOLD": 4000,
+      "DIAMOND": 5000,
+      "VOID": 6000
     },
     "ballerino_lololo": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 1500,
+      "CANDY": 2250,
+      "GOLD": 3000,
+      "DIAMOND": 3750,
+      "VOID": 4500
     },
     "orangutini_ananassini": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 1500,
+      "CANDY": 2250,
+      "GOLD": 3000,
+      "DIAMOND": 3750,
+      "VOID": 4500
     },
     "frigo_camello": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 1500,
+      "CANDY": 2250,
+      "GOLD": 3000,
+      "DIAMOND": 3750,
+      "VOID": 4500
     },
     "glorbo_frutodrillo": {
-      "NORMAL": 0,
+      "NORMAL": 1500,
       "CANDY": 0,
       "GOLD": 0,
       "DIAMOND": 0,
       "VOID": 0
     },
     "ta_ta_ta_ta_sahur": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 1500,
+      "CANDY": 2250,
+      "GOLD": 3000,
+      "DIAMOND": 3750,
+      "VOID": 4500
     },
     "raccooni_watermelunni": {
-      "NORMAL": 0,
+      "NORMAL": 1500,
       "CANDY": 0,
       "GOLD": 0,
       "DIAMOND": 0,
       "VOID": 0
     },
     "trippi_troppi_troppa_trippa": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 1000,
+      "CANDY": 1500,
+      "GOLD": 2000,
+      "DIAMOND": 2500,
+      "VOID": 3000
     },
     "gorillo_watermellondrillo": {
-      "NORMAL": 0,
+      "NORMAL": 1000,
       "CANDY": 0,
       "GOLD": 0,
       "DIAMOND": 0,
       "VOID": 0
     },
     "capuccino_assassino": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 1000,
+      "CANDY": 1500,
+      "GOLD": 2000,
+      "DIAMOND": 2500,
+      "VOID": 3000
     },
     "brr_brr_patapim": {
-      "NORMAL": 0,
+      "NORMAL": 500,
       "CANDY": 0,
       "GOLD": 0,
       "DIAMOND": 0,
       "VOID": 0
     },
     "udin_din_din_dun": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 500,
+      "CANDY": 750,
+      "GOLD": 1000,
+      "DIAMOND": 1250,
+      "VOID": 1500
     },
     "gangster_foottera": {
-      "NORMAL": 0,
+      "NORMAL": 500,
       "CANDY": 0,
       "GOLD": 0,
       "DIAMOND": 0,
       "VOID": 0
     },
     "ballerina_cappuccina": {
-      "NORMAL": 0,
+      "NORMAL": 500,
       "CANDY": 0,
       "GOLD": 0,
       "DIAMOND": 0,
       "VOID": 0
     },
     "cocofanto_elefanto": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 400,
+      "CANDY": 600,
+      "GOLD": 800,
+      "DIAMOND": 1000,
+      "VOID": 1200
     },
     "cacto_hipopotamo": {
-      "NORMAL": 0,
+      "NORMAL": 300,
       "CANDY": 0,
       "GOLD": 0,
       "DIAMOND": 0,
@@ -684,6 +684,6 @@
       "null": 0
     }
   },
-  "lastUpdated": "2026-04-23T21:39:26.420Z",
-  "lastUpdatedBy": "admin"
+  "lastUpdated": "2026-04-24T05:34:33Z",
+  "lastUpdatedBy": "admin (ellie snapshot 1ellie_raindrops)"
 }
