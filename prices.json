@@ -499,32 +499,32 @@
       "VOID": 7500
     },
     "ti_ti_ti_sahur": {
-      "NORMAL": 2500,
-      "CANDY": 3750,
-      "GOLD": 5000,
-      "DIAMOND": 6250,
-      "VOID": 7500
+      "NORMAL": 2900,
+      "CANDY": 4550,
+      "GOLD": 6200,
+      "DIAMOND": 7850,
+      "VOID": 9500
     },
     "te_te_te_te_sahur": {
-      "NORMAL": 2500,
-      "CANDY": 3750,
-      "GOLD": 5000,
-      "DIAMOND": 6250,
-      "VOID": 7500
+      "NORMAL": 2800,
+      "CANDY": 4350,
+      "GOLD": 5900,
+      "DIAMOND": 7450,
+      "VOID": 9000
     },
     "rhino_toasterino": {
-      "NORMAL": 2500,
-      "CANDY": 3750,
-      "GOLD": 5000,
-      "DIAMOND": 6250,
-      "VOID": 7500
+      "NORMAL": 2700,
+      "CANDY": 4150,
+      "GOLD": 5600,
+      "DIAMOND": 7050,
+      "VOID": 8500
     },
     "cavallo_virtuoso": {
-      "NORMAL": 2500,
-      "CANDY": 3750,
-      "GOLD": 5000,
-      "DIAMOND": 6250,
-      "VOID": 7500
+      "NORMAL": 2600,
+      "CANDY": 3950,
+      "GOLD": 5300,
+      "DIAMOND": 6650,
+      "VOID": 8000
     },
     "lerulerulerule": {
       "NORMAL": 2500,
@@ -534,39 +534,39 @@
       "VOID": 7500
     },
     "yoni": {
-      "NORMAL": 2000,
-      "CANDY": 3000,
-      "GOLD": 4000,
-      "DIAMOND": 5000,
-      "VOID": 6000
+      "NORMAL": 2200,
+      "CANDY": 3400,
+      "GOLD": 4600,
+      "DIAMOND": 5800,
+      "VOID": 7000
     },
     "orcalero_orcala": {
-      "NORMAL": 2000,
-      "CANDY": 3000,
-      "GOLD": 4000,
-      "DIAMOND": 5000,
-      "VOID": 6000
+      "NORMAL": 2100,
+      "CANDY": 3200,
+      "GOLD": 4300,
+      "DIAMOND": 5400,
+      "VOID": 6500
     },
     "ganganzelli_trulala": {
-      "NORMAL": 2000,
-      "CANDY": 3000,
-      "GOLD": 4000,
-      "DIAMOND": 5000,
-      "VOID": 3000
+      "NORMAL": 2300,
+      "CANDY": 3600,
+      "GOLD": 4900,
+      "DIAMOND": 6200,
+      "VOID": 7500
     },
     "tracoducotulu_delapeladustuz": {
-      "NORMAL": 2000,
-      "CANDY": 3000,
-      "GOLD": 4000,
-      "DIAMOND": 5000,
-      "VOID": 6000
+      "NORMAL": 2200,
+      "CANDY": 3400,
+      "GOLD": 4600,
+      "DIAMOND": 5800,
+      "VOID": 7000
     },
     "frulli_frula": {
-      "NORMAL": 2000,
-      "CANDY": 3000,
-      "GOLD": 4000,
-      "DIAMOND": 5000,
-      "VOID": 6000
+      "NORMAL": 2100,
+      "CANDY": 3200,
+      "GOLD": 4300,
+      "DIAMOND": 5400,
+      "VOID": 6500
     },
     "svinina_bombobardino": {
       "NORMAL": 2000,
@@ -576,18 +576,18 @@
       "VOID": 6000
     },
     "ballerino_lololo": {
-      "NORMAL": 1750,
-      "CANDY": 2500,
-      "GOLD": 3500,
-      "DIAMOND": 4500,
-      "VOID": 5000
+      "NORMAL": 1950,
+      "CANDY": 2800,
+      "GOLD": 3900,
+      "DIAMOND": 4900,
+      "VOID": 5400
     },
     "orangutini_ananassini": {
-      "NORMAL": 1750,
-      "CANDY": 2500,
-      "GOLD": 3500,
-      "DIAMOND": 4500,
-      "VOID": 5000
+      "NORMAL": 1850,
+      "CANDY": 2700,
+      "GOLD": 3700,
+      "DIAMOND": 4700,
+      "VOID": 5200
     },
     "frigo_camello": {
       "NORMAL": 1750,
@@ -597,18 +597,18 @@
       "VOID": 5000
     },
     "glorbo_frutodrillo": {
-      "NORMAL": 1500,
-      "CANDY": 2250,
-      "GOLD": 3000,
-      "DIAMOND": 3750,
-      "VOID": 4500
+      "NORMAL": 1700,
+      "CANDY": 2500,
+      "GOLD": 3350,
+      "DIAMOND": 4000,
+      "VOID": 5000
     },
     "ta_ta_ta_ta_sahur": {
-      "NORMAL": 1500,
-      "CANDY": 2250,
-      "GOLD": 3000,
-      "DIAMOND": 3750,
-      "VOID": 4500
+      "NORMAL": 1600,
+      "CANDY": 2350,
+      "GOLD": 3200,
+      "DIAMOND": 3900,
+      "VOID": 4800
     },
     "raccooni_watermelunni": {
       "NORMAL": 1500,
@@ -618,18 +618,18 @@
       "VOID": 4500
     },
     "trippi_troppi_troppa_trippa": {
-      "NORMAL": 1000,
-      "CANDY": 1500,
-      "GOLD": 2000,
-      "DIAMOND": 2500,
-      "VOID": 3000
+      "NORMAL": 1200,
+      "CANDY": 1900,
+      "GOLD": 2500,
+      "DIAMOND": 3000,
+      "VOID": 3600
     },
     "gorillo_watermellondrillo": {
-      "NORMAL": 1000,
-      "CANDY": 1500,
-      "GOLD": 2000,
-      "DIAMOND": 2500,
-      "VOID": 3000
+      "NORMAL": 1100,
+      "CANDY": 1700,
+      "GOLD": 2300,
+      "DIAMOND": 2800,
+      "VOID": 3400
     },
     "capuccino_assassino": {
       "NORMAL": 1000,
@@ -639,11 +639,11 @@
       "VOID": 3000
     },
     "brr_brr_patapim": {
-      "NORMAL": 500,
-      "CANDY": 750,
-      "GOLD": 1000,
-      "DIAMOND": 1250,
-      "VOID": 1500
+      "NORMAL": 600,
+      "CANDY": 850,
+      "GOLD": 1100,
+      "DIAMOND": 1350,
+      "VOID": 1600
     },
     "udin_din_din_dun": {
       "NORMAL": 550,
@@ -688,6 +688,6 @@
       "VOID": 0
     }
   },
-  "lastUpdated": "2026-04-24T05:41:15.259Z",
+  "lastUpdated": "2026-04-24T05:51:25.881Z",
   "lastUpdatedBy": "admin"
 }
