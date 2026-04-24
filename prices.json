@@ -102,7 +102,7 @@
     "bomboclat_crocolat": {
       "NORMAL": 75000,
       "CANDY": 150000,
-      "GOLD": 0,
+      "GOLD": 200000,
       "DIAMOND": 300000,
       "VOID": 0
     },
@@ -842,6 +842,6 @@
       "VOID": 0
     }
   },
-  "lastUpdated": "2026-04-24T09:41:32.638Z",
+  "lastUpdated": "2026-04-24T09:41:46.227Z",
   "lastUpdatedBy": "admin"
 }
