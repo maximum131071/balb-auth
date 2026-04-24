@@ -73,9 +73,9 @@
     },
     "wormrot": {
       "NORMAL": 150000,
-      "CANDY": 0,
+      "CANDY": 225000,
       "GOLD": 400000,
-      "DIAMOND": 0,
+      "DIAMOND": 650000,
       "VOID": 0
     },
     "meowl": {
@@ -842,6 +842,6 @@
       "VOID": 0
     }
   },
-  "lastUpdated": "2026-04-24T08:58:21.625Z",
+  "lastUpdated": "2026-04-24T08:58:38.837Z",
   "lastUpdatedBy": "admin"
 }
