@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-04-24T11:50:17.498Z",
+  "lastUpdated": "2026-04-24T11:50:44.350Z",
   "lastUpdatedBy": "admin",
   "levelPercentPerLevel": 1,
   "prices": {
@@ -217,16 +217,16 @@
     "ganganzelli_chikala": {
       "NORMAL": 50000,
       "CANDY": 75000,
-      "GOLD": 10000,
+      "GOLD": 100000,
       "DIAMOND": 125000,
       "VOID": 150000
     },
     "bulbito_bandito_traktorito": {
-      "NORMAL": 0,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "NORMAL": 50000,
+      "CANDY": 75000,
+      "GOLD": 100000,
+      "DIAMOND": 125000,
+      "VOID": 150000
     },
     "aliensini_octosini": {
       "NORMAL": 50000,
