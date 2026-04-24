@@ -100,10 +100,10 @@
       "VOID": 750000
     },
     "bomboclat_crocolat": {
-      "NORMAL": 0,
-      "CANDY": 0,
+      "NORMAL": 75000,
+      "CANDY": 150000,
       "GOLD": 0,
-      "DIAMOND": 0,
+      "DIAMOND": 300000,
       "VOID": 0
     },
     "malame_easterale": {
@@ -842,6 +842,6 @@
       "VOID": 0
     }
   },
-  "lastUpdated": "2026-04-24T09:13:15.545Z",
+  "lastUpdated": "2026-04-24T09:41:32.638Z",
   "lastUpdatedBy": "admin"
 }
