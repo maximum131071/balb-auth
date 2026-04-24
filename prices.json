@@ -641,13 +641,13 @@
     "brr_brr_patapim": {
       "NORMAL": 500,
       "CANDY": 750,
-      "GOLD": 10000,
+      "GOLD": 1000,
       "DIAMOND": 1250,
       "VOID": 1500
     },
     "udin_din_din_dun": {
-      "NORMAL": 500,
-      "CANDY": 750,
+      "NORMAL": 550,
+      "CANDY": 800,
       "GOLD": 1000,
       "DIAMOND": 1250,
       "VOID": 1500
@@ -688,6 +688,6 @@
       "VOID": 0
     }
   },
-  "lastUpdated": "2026-04-24T03:39:51.828Z",
+  "lastUpdated": "2026-04-24T05:41:15.259Z",
   "lastUpdatedBy": "admin"
 }
