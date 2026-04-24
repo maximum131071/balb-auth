@@ -443,60 +443,60 @@
       "VOID": 15000
     },
     "trulimero_trulicina": {
-      "NORMAL": 4000,
-      "CANDY": 6000,
-      "GOLD": 8000,
-      "DIAMOND": 10000,
-      "VOID": 12000
+      "NORMAL": 4200,
+      "CANDY": 6850,
+      "GOLD": 9500,
+      "DIAMOND": 12650,
+      "VOID": 15500
     },
     "chicleteira_bicicleteira": {
-      "NORMAL": 4000,
-      "CANDY": 6000,
-      "GOLD": 8000,
-      "DIAMOND": 10000,
-      "VOID": 12000
+      "NORMAL": 3900,
+      "CANDY": 6250,
+      "GOLD": 8600,
+      "DIAMOND": 11450,
+      "VOID": 14000
     },
     "los_crocodillitos": {
-      "NORMAL": 3000,
-      "CANDY": 4500,
-      "GOLD": 6000,
-      "DIAMOND": 7500,
-      "VOID": 9000
+      "NORMAL": 3700,
+      "CANDY": 5850,
+      "GOLD": 8300,
+      "DIAMOND": 10650,
+      "VOID": 13000
     },
     "pot_hotspot": {
-      "NORMAL": 3000,
-      "CANDY": 4500,
-      "GOLD": 6000,
-      "DIAMOND": 7500,
-      "VOID": 9000
+      "NORMAL": 3600,
+      "CANDY": 5650,
+      "GOLD": 8000,
+      "DIAMOND": 10250,
+      "VOID": 12500
     },
     "los_tralaleritos": {
-      "NORMAL": 3000,
-      "CANDY": 4500,
-      "GOLD": 6000,
-      "DIAMOND": 7500,
-      "VOID": 9000
+      "NORMAL": 3500,
+      "CANDY": 5450,
+      "GOLD": 7700,
+      "DIAMOND": 9850,
+      "VOID": 12000
     },
     "torrtuginni_dragonfrutinni": {
-      "NORMAL": 3000,
-      "CANDY": 4500,
-      "GOLD": 6000,
-      "DIAMOND": 7500,
-      "VOID": 9000
+      "NORMAL": 3300,
+      "CANDY": 5150,
+      "GOLD": 7100,
+      "DIAMOND": 9050,
+      "VOID": 11000
     },
     "burbaloni_luliloli": {
-      "NORMAL": 3000,
-      "CANDY": 4500,
-      "GOLD": 6000,
-      "DIAMOND": 7500,
-      "VOID": 9000
+      "NORMAL": 3200,
+      "CANDY": 4950,
+      "GOLD": 6800,
+      "DIAMOND": 8650,
+      "VOID": 10500
     },
     "mateo": {
-      "NORMAL": 2500,
-      "CANDY": 3750,
-      "GOLD": 5000,
-      "DIAMOND": 6250,
-      "VOID": 7500
+      "NORMAL": 3000,
+      "CANDY": 4750,
+      "GOLD": 6500,
+      "DIAMOND": 8250,
+      "VOID": 10000
     },
     "ti_ti_ti_sahur": {
       "NORMAL": 2900,
@@ -688,6 +688,6 @@
       "VOID": 0
     }
   },
-  "lastUpdated": "2026-04-24T05:51:25.881Z",
+  "lastUpdated": "2026-04-24T05:57:26.205Z",
   "lastUpdatedBy": "admin"
 }
