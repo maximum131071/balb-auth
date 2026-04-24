@@ -12,7 +12,7 @@
       "NORMAL": 50000000,
       "CANDY": 75000000,
       "GOLD": 100000000,
-      "DIAMOND": 150000000,
+      "DIAMOND": 125000000,
       "VOID": 200000000
     },
     "gorgonzilla": {
@@ -842,6 +842,6 @@
       "VOID": 0
     }
   },
-  "lastUpdated": "2026-04-24T06:40:51.432Z",
+  "lastUpdated": "2026-04-24T06:40:58.318Z",
   "lastUpdatedBy": "admin"
 }
