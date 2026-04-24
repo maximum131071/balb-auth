@@ -10,10 +10,10 @@
     },
     "squalo_cavallo": {
       "NORMAL": 50000000,
-      "CANDY": 0,
-      "GOLD": 0,
-      "DIAMOND": 0,
-      "VOID": 0
+      "CANDY": 100000000,
+      "GOLD": 150000000,
+      "DIAMOND": 200000000,
+      "VOID": 300000000
     },
     "gorgonzilla": {
       "NORMAL": 3000000,
@@ -71,6 +71,13 @@
       "DIAMOND": 1087500,
       "VOID": 1275000
     },
+    "wormrot": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
     "meowl": {
       "NORMAL": 450000,
       "CANDY": 675000,
@@ -92,12 +99,40 @@
       "DIAMOND": 625000,
       "VOID": 750000
     },
+    "bomboclat_crocolat": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
     "malame_easterale": {
       "NORMAL": 200000,
       "CANDY": 300000,
       "GOLD": 400000,
       "DIAMOND": 500000,
       "VOID": 600000
+    },
+    "1x1x1x1": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "bombardino_crocodilo": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "wizard_cat": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
     },
     "la_vacca_galactica": {
       "NORMAL": 190000,
@@ -169,6 +204,27 @@
       "DIAMOND": 125000,
       "VOID": 150000
     },
+    "mellondrillo404": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "ganganzelli_chikala": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "bulbito_bandito_traktorito": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
     "aliensini_octosini": {
       "NORMAL": 50000,
       "CANDY": 75000,
@@ -225,6 +281,13 @@
       "DIAMOND": 37500,
       "VOID": 45000
     },
+    "gigalitraktos_spidorobos": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
     "boneca_ambalabu": {
       "NORMAL": 13000,
       "CANDY": 19500,
@@ -238,6 +301,20 @@
       "GOLD": 26000,
       "DIAMOND": 32500,
       "VOID": 39000
+    },
+    "salamino_exploito404": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "orangutini_wingassini": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
     },
     "chachelien": {
       "NORMAL": 13000,
@@ -302,6 +379,20 @@
       "DIAMOND": 25000,
       "VOID": 30000
     },
+    "banananito_hackerito": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "bombirdini_tortini": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
     "astro_bandito": {
       "NORMAL": 10000,
       "CANDY": 15000,
@@ -357,6 +448,20 @@
       "GOLD": 16000,
       "DIAMOND": 20000,
       "VOID": 24000
+    },
+    "ketupat_corrupt": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "pipi_poppa_pippo_peppe": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
     },
     "spaceshipini_tortini": {
       "NORMAL": 8000,
@@ -442,6 +547,20 @@
       "DIAMOND": 14000,
       "VOID": 17000
     },
+    "pi_pi_pie_pie": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "antonio": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
     "trulimero_trulicina": {
       "NORMAL": 4200,
       "CANDY": 6850,
@@ -469,6 +588,13 @@
       "GOLD": 8000,
       "DIAMOND": 10250,
       "VOID": 12500
+    },
+    "pingvinator_termoregullator": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
     },
     "los_tralaleritos": {
       "NORMAL": 3500,
@@ -505,6 +631,13 @@
       "DIAMOND": 7850,
       "VOID": 9500
     },
+    "quesadilla_crocodila": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
     "te_te_te_te_sahur": {
       "NORMAL": 2800,
       "CANDY": 4350,
@@ -525,6 +658,13 @@
       "GOLD": 5300,
       "DIAMOND": 6650,
       "VOID": 8000
+    },
+    "nuclerucci": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
     },
     "lerulerulerule": {
       "NORMAL": 2500,
@@ -553,6 +693,13 @@
       "GOLD": 4900,
       "DIAMOND": 6200,
       "VOID": 7500
+    },
+    "francesco": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
     },
     "tracoducotulu_delapeladustuz": {
       "NORMAL": 2200,
@@ -595,6 +742,13 @@
       "GOLD": 3500,
       "DIAMOND": 4500,
       "VOID": 5000
+    },
+    "trikitrakatelas": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
     },
     "glorbo_frutodrillo": {
       "NORMAL": 1700,
@@ -688,6 +842,6 @@
       "VOID": 0
     }
   },
-  "lastUpdated": "2026-04-24T05:59:13.427Z",
+  "lastUpdated": "2026-04-24T06:40:18.395Z",
   "lastUpdatedBy": "admin"
 }
