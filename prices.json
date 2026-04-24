@@ -1,10 +1,840 @@
 {
   "version": 1,
   "prices": {
+    "67": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "squalo_cavallo": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "gorgonzilla": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "dojonini_assassini": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "magiani_tankiani": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "i2perfectini_foxinini": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "bulu_bulu_bulu_bulben": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "strawberry_elephant": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "rang_ring_reng": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "chachechi": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "wormrot": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "meowl": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "karkirkur": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "luminous_yoni": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "bomboclat_crocolat": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "malame_easterale": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "1x1x1x1": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "bombardino_crocodilo": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
     "wizard_cat": {
+      "NORMAL": 50000,
+      "CANDY": 75000,
+      "GOLD": 125000,
+      "DIAMOND": 0,
       "VOID": 250000
+    },
+    "la_vacca_galactica": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "la_vacca_singolarita": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "dragoni_circusoni": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "angelinni_octossini": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "devilivion": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "elefantino_frigorifero": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "salamino_penguinoo": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "toc_toc_sahur": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "tic_tac_tok_afammocc": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "buni": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "mellondrillo404": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "ganganzelli_chikala": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "bulbito_bandito_traktorito": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "aliensini_octosini": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "cavallo_inkuoso": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "tic_toc_circhur": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "bisonte_giuppitere_giuppitercito": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "spioniro_golubiro": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "angel_job_job_sahur": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "malamevil": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "to_to_to_sahur": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "gigalitraktos_spidorobos": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "boneca_ambalabu": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "karkirkurster": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "salamino_exploito404": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "orangutini_wingassini": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "chachelien": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "ink_din_din_dun": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "clownteo": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "ferro_sahur": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "tralalero_tralala": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "dragoni_cannelloni": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "angel_bisonte_giuppitere": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "diavolero_tralala": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "cocosino_bunnyno": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "banananito_hackerito": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "bombirdini_tortini": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "astro_bandito": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "inknina_bombobardino": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "cocofanto_magicano": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "tigrrullini_watermellini": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "angela_larila": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "devupat_kepat_prekupat": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "graipus_medus": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "hopster_foottera": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "ketupat_corrupt": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "pipi_poppa_pippo_peppe": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "spaceshipini_tortini": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "glorbo_inkdrillo": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "jestellerino_lololo": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "ding_sahur": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "spaghetti_tualetti": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "cathinni_sushinni": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "angelzini_bananini": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "devilcino_assassino": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "pipi_potato": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "agarrini_lapalini": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "las_vaquitas_saturnitas": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "la_vacca_saturno_saturnita": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "pi_pi_pie_pie": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "antonio": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "trulimero_trulicina": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "chicleteira_bicicleteira": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "los_crocodillitos": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "pot_hotspot": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "pingvinator_termoregullator": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "los_tralaleritos": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "torrtuginni_dragonfrutinni": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "burbaloni_luliloli": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "mateo": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "ti_ti_ti_sahur": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "quesadilla_crocodila": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "te_te_te_te_sahur": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "rhino_toasterino": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "cavallo_virtuoso": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "nuclerucci": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "lerulerulerule": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "yoni": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "orcalero_orcala": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "ganganzelli_trulala": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "francesco": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "tracoducotulu_delapeladustuz": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "frulli_frula": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "svinina_bombobardino": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "ballerino_lololo": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "orangutini_ananassini": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "frigo_camello": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "trikitrakatelas": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "glorbo_frutodrillo": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "ta_ta_ta_ta_sahur": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "raccooni_watermelunni": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "trippi_troppi_troppa_trippa": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "gorillo_watermellondrillo": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "capuccino_assassino": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "brr_brr_patapim": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "udin_din_din_dun": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "gangster_foottera": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "ballerina_cappuccina": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "cocofanto_elefanto": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
+    },
+    "cacto_hipopotamo": {
+      "NORMAL": 0,
+      "CANDY": 0,
+      "GOLD": 0,
+      "DIAMOND": 0,
+      "VOID": 0
     }
   },
-  "lastUpdated": "2026-04-24T09:42:39.899Z",
+  "lastUpdated": "2026-04-24T09:43:00.483Z",
   "lastUpdatedBy": "admin"
 }
