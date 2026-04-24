@@ -34,18 +34,36 @@
         var code = params.get("code");
         var state = params.get("state");
 
+        // Roblox can redirect back with ?error= and ?error_description= when
+        // the authorize step itself rate-limits or the user denies. Show a
+        // friendly message instead of a generic "no code" fallback.
+        var robloxErr = params.get("error");
+        var robloxErrDesc = params.get("error_description");
+        if (robloxErr || robloxErrDesc) {
+            var text = robloxErrDesc || robloxErr;
+            if (/rate.*limit|slow down/i.test(text)) {
+                text = "Roblox is busy right now. Please try again in a minute.";
+            }
+            showError(text);
+            return;
+        }
         if (!code) {
             showError("No authorization code received.");
             return;
         }
 
-        // Decode return URL and trade token from state
+        // Decode return URL, trade token, and Roblox OAuth client_id from state.
+        // client_id is needed so the server knows which OAuth app's secret to
+        // use during the code exchange (we rotate across multiple apps to
+        // dodge Roblox's per-client rate limit).
         var returnUrl = "";
         var tradeToken = "";
+        var clientId = "";
         try {
             var stateData = JSON.parse(atob(state));
             returnUrl = stateData.returnUrl || "";
             tradeToken = stateData.tradeToken || "";
+            clientId = stateData.clientId || "";
         } catch(e) {
             returnUrl = "";
         }
@@ -63,7 +81,7 @@
                 "Content-Type": "application/json",
                 "Authorization": "Bearer " + tradeToken
             },
-            body: JSON.stringify({ code: code })
+            body: JSON.stringify({ code: code, client_id: clientId })
         })
         .then(function(res) {
             if (!res.ok) return res.json().then(function(d) { throw new Error(d.error || "Server returned " + res.status); });
