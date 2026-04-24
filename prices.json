@@ -76,7 +76,7 @@
       "CANDY": 225000,
       "GOLD": 400000,
       "DIAMOND": 650000,
-      "VOID": 0
+      "VOID": 2750000
     },
     "meowl": {
       "NORMAL": 450000,
@@ -842,6 +842,6 @@
       "VOID": 0
     }
   },
-  "lastUpdated": "2026-04-24T08:58:38.837Z",
+  "lastUpdated": "2026-04-24T08:58:59.340Z",
   "lastUpdatedBy": "admin"
 }
