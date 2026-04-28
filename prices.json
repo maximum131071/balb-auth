@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-04-28T16:54:48.745Z",
+  "lastUpdated": "2026-04-28T17:38:37.812Z",
   "lastUpdatedBy": "admin",
   "levelPercentPerLevel": 1,
   "prices": {
@@ -47,16 +47,16 @@
       "VOID": 2000000
     },
     "bulu_bulu_bulu_bulben": {
-      "NORMAL": 400000,
-      "CANDY": 450000,
-      "GOLD": 500000,
-      "DIAMOND": 750000,
-      "VOID": 1000000
+      "NORMAL": 1,
+      "CANDY": 1,
+      "GOLD": 1,
+      "DIAMOND": 1,
+      "VOID": 1
     },
     "strawberry_elephant": {
-      "NORMAL": 2000000,
-      "CANDY": 3000000,
-      "GOLD": 5000000,
+      "NORMAL": 4000000,
+      "CANDY": 6000000,
+      "GOLD": 8000000,
       "DIAMOND": 12500000,
       "VOID": 20000000
     },
