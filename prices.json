@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-27T11:45:41.354Z",
+  "lastUpdated": "2026-05-27T11:50:55.499Z",
   "lastUpdatedBy": "admin",
   "levelPercentPerLevel": 1,
   "prices": {
@@ -1070,6 +1070,76 @@
       "GOLD": 100000,
       "DIAMOND": 125000,
       "VOID": 150000
+    },
+    "tictac_tictac_sahur": {
+      "NORMAL": 60000,
+      "CANDY": 90000,
+      "GOLD": 120000,
+      "DIAMOND": 150000,
+      "VOID": 180000
+    },
+    "bombini_gusini": {
+      "NORMAL": 60000,
+      "CANDY": 90000,
+      "GOLD": 120000,
+      "DIAMOND": 150000,
+      "VOID": 180000
+    },
+    "tang_tang_tang_teddytang": {
+      "NORMAL": 60000,
+      "CANDY": 90000,
+      "GOLD": 120000,
+      "DIAMOND": 150000,
+      "VOID": 180000
+    },
+    "carloo": {
+      "NORMAL": 60000,
+      "CANDY": 90000,
+      "GOLD": 120000,
+      "DIAMOND": 150000,
+      "VOID": 180000
+    },
+    "leonali_mangolani_paladinali": {
+      "NORMAL": 100000,
+      "CANDY": 150000,
+      "GOLD": 200000,
+      "DIAMOND": 250000,
+      "VOID": 300000
+    },
+    "sailor_crabracadabra": {
+      "NORMAL": 80000,
+      "CANDY": 120000,
+      "GOLD": 160000,
+      "DIAMOND": 200000,
+      "VOID": 240000
+    },
+    "tric_trac_buzzabum": {
+      "NORMAL": 100000,
+      "CANDY": 150000,
+      "GOLD": 200000,
+      "DIAMOND": 250000,
+      "VOID": 300000
+    },
+    "tigrullini_grandini_berserchini": {
+      "NORMAL": 100000,
+      "CANDY": 150000,
+      "GOLD": 200000,
+      "DIAMOND": 250000,
+      "VOID": 300000
+    },
+    "wifidino": {
+      "NORMAL": 100000,
+      "CANDY": 150000,
+      "GOLD": 200000,
+      "DIAMOND": 250000,
+      "VOID": 300000
+    },
+    "chicleteira_drilleteira": {
+      "NORMAL": 100000,
+      "CANDY": 150000,
+      "GOLD": 200000,
+      "DIAMOND": 250000,
+      "VOID": 300000
     }
   }
 }
