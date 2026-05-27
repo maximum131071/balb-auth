@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-27T11:33:35.305Z",
+  "lastUpdated": "2026-05-27T11:36:20.180Z",
   "lastUpdatedBy": "admin",
   "levelPercentPerLevel": 1,
   "prices": {
@@ -902,6 +902,48 @@
       "GOLD": 500000,
       "DIAMOND": 625000,
       "VOID": 1000000
+    },
+    "antonio_puppetino": {
+      "NORMAL": 9000,
+      "CANDY": 13500,
+      "GOLD": 18000,
+      "DIAMOND": 22500,
+      "VOID": 27000
+    },
+    "beeraffa_celeste": {
+      "NORMAL": 9000,
+      "CANDY": 13500,
+      "GOLD": 18000,
+      "DIAMOND": 22500,
+      "VOID": 27000
+    },
+    "pi_pi_pi_pixel_sahur": {
+      "NORMAL": 9000,
+      "CANDY": 13500,
+      "GOLD": 18000,
+      "DIAMOND": 22500,
+      "VOID": 27000
+    },
+    "yanini_minerini": {
+      "NORMAL": 9000,
+      "CANDY": 13500,
+      "GOLD": 18000,
+      "DIAMOND": 22500,
+      "VOID": 27000
+    },
+    "pipi_coralto": {
+      "NORMAL": 9000,
+      "CANDY": 13500,
+      "GOLD": 18000,
+      "DIAMOND": 22500,
+      "VOID": 27000
+    },
+    "lukethinni_sushinni": {
+      "NORMAL": 9000,
+      "CANDY": 13500,
+      "GOLD": 18000,
+      "DIAMOND": 22500,
+      "VOID": 27000
     }
   }
 }
