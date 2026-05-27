@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-27T11:36:20.180Z",
+  "lastUpdated": "2026-05-27T11:43:21.174Z",
   "lastUpdatedBy": "admin",
   "levelPercentPerLevel": 1,
   "prices": {
@@ -287,10 +287,10 @@
     },
     "gigalitraktos_spidorobos": {
       "NORMAL": 13500,
-      "CANDY": 20000,
-      "GOLD": 26500,
-      "DIAMOND": 33000,
-      "VOID": 40000
+      "CANDY": 20250,
+      "GOLD": 27000,
+      "DIAMOND": 33750,
+      "VOID": 40500
     },
     "boneca_ambalabu": {
       "NORMAL": 13000,
@@ -944,6 +944,90 @@
       "GOLD": 18000,
       "DIAMOND": 22500,
       "VOID": 27000
+    },
+    "buzzamino_penguino": {
+      "NORMAL": 12000,
+      "CANDY": 18000,
+      "GOLD": 24000,
+      "DIAMOND": 30000,
+      "VOID": 36000
+    },
+    "ti_ti_ti_tixel_sahur": {
+      "NORMAL": 12000,
+      "CANDY": 18000,
+      "GOLD": 24000,
+      "DIAMOND": 30000,
+      "VOID": 36000
+    },
+    "stonerulerule": {
+      "NORMAL": 12000,
+      "CANDY": 18000,
+      "GOLD": 24000,
+      "DIAMOND": 30000,
+      "VOID": 36000
+    },
+    "coralteo": {
+      "NORMAL": 12000,
+      "CANDY": 18000,
+      "GOLD": 24000,
+      "DIAMOND": 30000,
+      "VOID": 36000
+    },
+    "spioniro_lukebiro": {
+      "NORMAL": 12000,
+      "CANDY": 18000,
+      "GOLD": 24000,
+      "DIAMOND": 30000,
+      "VOID": 36000
+    },
+    "malame_plushrale": {
+      "NORMAL": 13000,
+      "CANDY": 19500,
+      "GOLD": 26000,
+      "DIAMOND": 32500,
+      "VOID": 39000
+    },
+    "bombardino_chromodilo": {
+      "NORMAL": 13000,
+      "CANDY": 19500,
+      "GOLD": 26000,
+      "DIAMOND": 32500,
+      "VOID": 39000
+    },
+    "kiwitto_tunnelito": {
+      "NORMAL": 13000,
+      "CANDY": 19500,
+      "GOLD": 26000,
+      "DIAMOND": 32500,
+      "VOID": 39000
+    },
+    "coraltuginni_dragonbloxinni": {
+      "NORMAL": 13000,
+      "CANDY": 19500,
+      "GOLD": 26000,
+      "DIAMOND": 32500,
+      "VOID": 39000
+    },
+    "lu_lu_luke_sahur": {
+      "NORMAL": 13000,
+      "CANDY": 19500,
+      "GOLD": 26000,
+      "DIAMOND": 32500,
+      "VOID": 39000
+    },
+    "toysini_mama": {
+      "NORMAL": 13500,
+      "CANDY": 20250,
+      "GOLD": 27000,
+      "DIAMOND": 33750,
+      "VOID": 40500
+    },
+    "chef_hexadabra": {
+      "NORMAL": 13500,
+      "CANDY": 20250,
+      "GOLD": 27000,
+      "DIAMOND": 33750,
+      "VOID": 40500
     }
   }
 }
