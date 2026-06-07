@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-07T00:32:48.587Z",
+  "lastUpdated": "2026-06-07T00:34:12.271Z",
   "lastUpdatedBy": "admin",
   "levelPercentPerLevel": 1,
   "prices": {
@@ -846,10 +846,10 @@
       "VOID": 96000000
     },
     "elliecattini": {
-      "NORMAL": 2000000,
-      "CANDY": 3000000,
-      "GOLD": 4000000,
-      "DIAMOND": 5000000,
+      "NORMAL": 1500000,
+      "CANDY": 2250000,
+      "GOLD": 3000000,
+      "DIAMOND": 3750000,
       "VOID": 6000000
     },
     "beezela": {
