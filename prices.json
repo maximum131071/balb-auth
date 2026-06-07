@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-27T11:51:45.833Z",
+  "lastUpdated": "2026-06-07T00:32:48.587Z",
   "lastUpdatedBy": "admin",
   "levelPercentPerLevel": 1,
   "prices": {
@@ -20,11 +20,11 @@
       "RADIOACTIVE": 1
     },
     "gorgonzilla": {
-      "NORMAL": 4500000,
-      "CANDY": 5000000,
-      "GOLD": 6000000,
-      "DIAMOND": 8000000,
-      "VOID": 10000000
+      "NORMAL": 10000000,
+      "CANDY": 15000000,
+      "GOLD": 20000000,
+      "DIAMOND": 25000000,
+      "VOID": 40000000
     },
     "dojonini_assassini": {
       "NORMAL": 500000,
@@ -839,11 +839,11 @@
       "VOID": 900
     },
     "la_admin_combination": {
-      "NORMAL": 9000000,
-      "CANDY": 11000000,
-      "GOLD": 14000000,
-      "DIAMOND": 20000000,
-      "VOID": 30000000
+      "NORMAL": 24000000,
+      "CANDY": 36000000,
+      "GOLD": 48000000,
+      "DIAMOND": 60000000,
+      "VOID": 96000000
     },
     "elliecattini": {
       "NORMAL": 2000000,
@@ -1154,6 +1154,9 @@
       "GOLD": 200000,
       "DIAMOND": 250000,
       "VOID": 300000
+    },
+    "las_vaquitas_rescuenitas": {
+      "NORMAL": 96000000
     }
   }
 }
