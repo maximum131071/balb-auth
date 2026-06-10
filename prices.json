@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-10T19:05:57.926Z",
+  "lastUpdated": "2026-06-10T19:07:30.611Z",
   "lastUpdatedBy": "admin",
   "levelPercentPerLevel": 1,
   "prices": {
@@ -1156,7 +1156,11 @@
       "VOID": 300000
     },
     "las_vaquitas_rescuenitas": {
-      "NORMAL": 96000000
+      "NORMAL": 96000000,
+      "CANDY": 144000000,
+      "GOLD": 192000000,
+      "DIAMOND": 240000000,
+      "VOID": 384000000
     }
   }
 }
