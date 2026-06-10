@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-10T19:07:30.611Z",
+  "lastUpdated": "2026-06-10T19:09:25.684Z",
   "lastUpdatedBy": "admin",
   "levelPercentPerLevel": 1,
   "prices": {
@@ -1161,6 +1161,13 @@
       "GOLD": 192000000,
       "DIAMOND": 240000000,
       "VOID": 384000000
+    },
+    "ul_ul_ul_ul": {
+      "NORMAL": 432000000,
+      "CANDY": 648000000,
+      "GOLD": 864000000,
+      "DIAMOND": 1080000000,
+      "VOID": 1728000000
     }
   }
 }
